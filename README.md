@@ -7,7 +7,7 @@ My name is Igor, and I’m passionate about studying systems, logic, and solving
 
 ## 🌱 Currently, I’m learning:  
 - I’ve completed online courses in **C#** and **Python**  
-  and continue learning these programming languages.  
+  and continue learning these programming languages. 
 - I’m also studying mathematics and physics to expand my knowledge and understanding of the world,  
   as well as to apply this knowledge in practice and programming.  
 
