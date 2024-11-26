@@ -15,7 +15,7 @@ My name is Igor, and I’m passionate about studying systems, logic, and solving
 - I’m ready to assist with any **C#** or **Python** projects to gain practical experience.  
 
 ## 📫 How to reach me:  
-- Email: [Your email here].  
+- Email: [titanigorkl@gmail.com].  
 
 ## ⚡ A few facts about me:  
 - I enjoy understanding systems and finding ways to optimize or improve them.  
